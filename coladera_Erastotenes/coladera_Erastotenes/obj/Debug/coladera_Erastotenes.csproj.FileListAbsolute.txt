@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\bin\Debug\coladera_Erastotenes.exe.config
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\bin\Debug\coladera_Erastotenes.exe
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\bin\Debug\coladera_Erastotenes.pdb
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\obj\Debug\coladera_Erastotenes.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\obj\Debug\coladera_Erastotenes.Form1.resources
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\obj\Debug\coladera_Erastotenes.Properties.Resources.resources
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\obj\Debug\coladera_Erastotenes.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\obj\Debug\coladera_Erastotenes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\obj\Debug\coladera_Erastotenes.exe
+C:\Users\DELL\Documents\tareas 4 semestre\coladera_Erastotenes\coladera_Erastotenes\obj\Debug\coladera_Erastotenes.pdb
